@@ -1,0 +1,13 @@
+#chrome debug logging
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --enable-logging=stderr --v=1 2>&1 | tee -a /Users/kuno/code/pipeline/chrlog.txt
+
+#filebeat
+./filebeat-8.2.2-darwin-x86_64
+./filebeat -e
+
+#logstash
+./bin/logstash -f ./chrdeb.conf
+
+#kafka
+python3 ./codec.py
+--------------------------------------------
