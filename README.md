@@ -1,1 +1,3 @@
-# KDT_DataEngineeringProject_3
+# 저오늘떠나조
+## 캠핑을떠나보자
+김건우, 계은서, 박수진, 유제영, 정가영
