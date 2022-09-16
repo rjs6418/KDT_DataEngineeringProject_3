@@ -17,3 +17,4 @@ https://github.com/rjs6418/KDT_DataEngineeringProject_3/blob/master/3%EC%A1%B0_%
 
 ### 임의의 가 데이터를 활용하기 보다 실제로 발생하는 데이터를 활용하고자 
 ### 크롬 디버깅 로그를 출력하여 해당 데이터를 스트림 처리하여 추천 시스템에 활용
+### SparkSQL 쿼리를 활용하여 데이터 분석 실시
