@@ -11,6 +11,7 @@
 https://github.com/rjs6418/KDT_DataEngineeringProject_3/blob/master/3%EC%A1%B0_%EC%A0%80%EC%98%A4%EB%8A%98%EB%96%A0%EB%82%98%EC%A1%B0.pdf
 
 ### 서비스 중심의 전체 파이프라인 구성도
+![image](https://user-images.githubusercontent.com/101792115/190812822-e438f99b-d0d6-4c17-8347-002c220b620f.png)
 
 
 
