@@ -20,4 +20,4 @@ https://github.com/rjs6418/KDT_DataEngineeringProject_3/blob/master/3%EC%A1%B0_%
 ### (크롬로그 파일, 쿠키 파일 등에 JDBC, SQLite 외 여러 Logstash의 플러그인들을 사용 해보았으나, 원하는 수준의 속도가 퍼포먼스가 발생하지않아 위와 같은 방법 사용)
 
 ### SparkSQL 쿼리를 활용하여 데이터 분석 실시
-### 관리미흡으로 인한 일부 SparkSQL 활용 분석 및 시각화 코드 분실
+### 관리미흡으로 인한 SparkSQL 활용 분석 및 시각화 코드 일부 분실
